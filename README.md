@@ -1,3 +1,5 @@
+<video autoplay loop muted playsinline src="https://github.com/unwisegeek/unwisegeek/header.mp4">John Madon. Software Developer. Linux Geek.</video>
+
 - 👋 Hi, I’m @unwisegeek
 - 👀 I’m interested in Linux, Python, abd other programming related topics.
 - 🌱 I’m currently learning Flask.
