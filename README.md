@@ -1,4 +1,7 @@
-<video autoplay loop muted playsinline src="https://github.com/unwisegeek/unwisegeek/header.mp4">John Madon. Software Developer. Linux Geek.</video>
+<video width="1500" height="500" autoplay loop muted playsinline>
+	<source src="https://raw.githubusercontent.com/unwisegeek/unwisegeek/wip/header.mp4" type="video/mp4">
+	<img src="https://raw.githubusercontent.com/unwisegeek/unwisegeek/wip/header-opt.gif" height="500" width="1500" alt="John Madon. Software Developer. Linux Geek">
+</video>
 
 - 👋 Hi, I’m @unwisegeek
 - 👀 I’m interested in Linux, Python, abd other programming related topics.
