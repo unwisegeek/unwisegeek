@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/unwisegeek/unwisegeek/main/header-opt.gif" alt="John Madon. Software Developer. Linux Geek">
+<img src="https://raw.githubusercontent.com/unwisegeek/unwisegeek/main/header.gif" alt="John Madon. Software Developer. Linux Geek">
 
 - 👋 Hi, I’m @unwisegeek
 - 👀 I’m interested in Linux, Python, abd other programming related topics.
